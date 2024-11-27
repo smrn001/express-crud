@@ -12,13 +12,13 @@
 1. Clone the repo:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/smrn001/express-crud.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd crud-app-express
+   cd express-crud
    ```
 
 3. Install dependencies:
